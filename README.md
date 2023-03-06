@@ -3,4 +3,5 @@
 
 to run enter command
 npm start
+
 and use expo app on andriod to run and on iOS use camera app to scan the qr code
